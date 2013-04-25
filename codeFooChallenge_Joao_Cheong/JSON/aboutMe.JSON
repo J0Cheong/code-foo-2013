@@ -1,0 +1,63 @@
+[
+{
+	"question": "Name",
+	"answer": ["Joao Cheong"]
+},
+{
+	"question": "Age",
+	"answer": [22]
+},
+{
+	"question": "Interests: ",
+	"answer": ["Anime", "Auto Sports", "Cooking", "Cycling", "Drawing", "Family activities", "Games", "Game development", "Music", "Tennis"]
+},
+{
+	"question": "Dislikes",
+	"answer": ["judging a book by its cover"]
+},
+{
+	"question": "Dream",
+	"answer": ["to erect a mall"]
+},
+{
+	"question": "Short Term Goal",
+	"answer": ["To lead a group of developers in building a MMMOBA(Mecha Massive Multi Online Battle Area) using WebGL and hopefully by the time it is finished, all mobile devices will support WebGL. Something along the lines of Custom Robo, Macross and Armored Core. It needs to be Fast, Flashy, and Fun."]
+},
+{
+	"question": "Background",
+	"answer": ["Studied at UCSD under Structural/ Mechanical engineering curriculum. My first programming language was MATlab. I had an opportunity to learn about Digital and Signal Processing from my professor. His students, taught me a lot about programming in general. I was exposed to object oriented programming and am still thankful I had help when learning about OOP. Eventually, I contributed to my professor's GUI project developed for the purpose of data acquisition.",
+	"At that time I was certain that I had an interest in programming and continued to inquire more resources for my learning desires. I chose programming for the web because there are plenty of resources available and a friendly community of experts for topics which require more elaboration. Being a natural game lover, I have interests in developing games for the web. Realizing JavaScript is capable of doing this, I will put forth all my effort into mastering JavaScript. It will not be an easy task , but I want to make a game for the web that will be loved by all."] 
+},
+{
+	"question": "Biggest Regret",
+	"answer": ["Not knowing about the wonderful world of computer science because my school and frankly, most school would rather teach Calculus instead of an introduction to programming algorithms or even introduction to Computer Science in general.",
+	"If I only had the slightest knowledge about how games get developed back in high school, I would have opted to establish a game programming club. We would have done something bi-weekly and had a game created as our final project. The school computers would have seen better use."]  
+},
+{
+	"question": "Thoughts about programming",
+	"answer": ["Nothing in programming can be completely intuitive and thus it is always better to start with pen and paper. You start with a goal in mind and map the shortest route from where you start to reach the projected goal. After the first prototype, it will become apparent, the program is more complicated than it needs to be. The drawing board is revisited many times until the program becomes more pleasant to look at.",
+	"Working with other people's codes rely on the same concept of mapping out what the author's intention are. It is extremely important to fully comprehend the code before any adjustments should be made. One particular example is inadvertently modifying an event handler that process multiple actions. The program would no longer behave in the way intended by the original author and worse, you just corrupted the program.",
+	"Programming never gets old and it is a lot of fun working with other people on the same project."]
+},
+{
+	"question": "Passion for gaming",
+	"answer": ["Usually, I favor puzzles and survival horrors, but love games of any genre. As long as the game makes sense and there is a point to it, I will try it out. Games are even better when played with friends or family which in my opinion is more social than writing messages on people's Facebook. When I am with my sister, I like to play SHMUPS because they are so much fun to play in co-op. My admiration for game developers and games in general rose after realizing the difficulty involved in making games. Not just the game developers, the graphic artists and music composers deserve thanks too for creating a smooth blend of visuals and sounds in the game. Game AI might not look too impressive on the surface but is extremely complex under the hood. I have played many games in the past and am sad to see a lot of games being discontinued without a remake."]
+},
+{
+	"question": "What do you like about IGN",
+	"answer": ["I receive updates from IGN on news related to the gaming industry and gameplay trailers. I also appreciate IGN for providing live coverage of press events and conferences such as E3, BlizzCon and TGS to name a few. It would be interesting to hear from the workers what it feels like being at these events. I personally want to work and be involved with these events. Being such a huge entertainment website by covering movies and mobile development is a lot to handle. I respect IGN for venturing into many different aspects of entertainment."]
+},
+{
+	"question": "Thoughts on Code-Foo",
+	"answer": ["As I looked through my twitter box, I saw a retweet made about Code-Foo and naturally became excited about this opportunity to interact with professional engineers. I highly respect IGN for creating events like this as it allows people to demonstrate their skills in lieu of a resume. Naturally, I hope more companies adopt this method for hiring undergraduates as it shows the applicant has a strong interest in applying for that company.",
+	"Fun Fact: There is a competition in Japan called the Young Animator Training Project, which has the same underlying concept as Code-Foo and I really do appreciate this method of scouting people to work in fields they have an interest in."]
+},
+{
+	"question": "What results do you expect from Code-Foo",
+	"answer": ["I am interested in learning from both front-end and back-end development and make room for app development for both itunes and android as well. I am excited to learn about rising technology and sharpen up my coding skills. I also hope to make plenty of friends with fellow interns and mentors during Code-Foo."]
+},
+{
+	"question": "Special Thanks",
+	"answer": ["My family, especially my mother for supporting me all this time. I receive words of encouragement every day from her to telling me to pursue my dreams. To all the friends I made in High School and college. We do everything together, from homework to recreation and everyday is filled with enthusiasm. Working together with my friends shaped me into who I am today and I wish to have the chance to tell them how much of a difference they have made in my life just by being there."]  
+}
+]

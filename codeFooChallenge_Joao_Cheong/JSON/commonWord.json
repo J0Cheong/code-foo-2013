@@ -1,0 +1,8 @@
+{
+	"question": "What is the scalability of this algorithm? Would this algorithm still work if you were parsing billions of tweets?",
+	"answer": ["The time complexity for any chosen method is theoretically O(n) multiplied by the time complexity of the respective method not accounting for overhead. The 'n' represents the total number of words to be read by the processor. The method on this page is similar to using a hash table to store unique words in a dictionary. In PHP, associative arrays behave like an ordered map with each key pointed to their associated value.",
+	"In the case of parsing billions of tweets, the use of php associative arrays to count the frequency of each word occurrence would still be feasible. PHP memory can be determined by the ram available for the computer. PHP memory can be expanded per the user's request if current memory is insufficient. At a billion tweets, the act of injection, inspection, and removal with PHP associative arrays are all theoretically, of O(1) linear time complexity.",
+	"If memory is an issue however, the second option is to use a trie structure to store the words in a dictionary. Where hash tables excel in performance, tries are best performed for memory optimization. In a trie, words with the same prefix are stacked together and branch off where the similarities end. Assuming every letter behaves like a double-byte character, every letter with the same prefix can save 32 bits of storage that can be given to another word. The time complexity of injection, removal, and searching are of O(m) complexity, where m is the length of the word in context. Both methods can be used but will depend on whether performance or memory holds priority."  
+	
+	]
+}

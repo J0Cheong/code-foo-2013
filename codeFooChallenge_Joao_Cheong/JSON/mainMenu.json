@@ -1,0 +1,22 @@
+{
+	"logo": "IGN Code-Foo 2013",
+	"competitor": "Joao Cheong",
+	"date" : "4/22/2013",
+	"navigation": 
+	[{
+		"title": "About Me",
+		"link": "aboutMe.php"
+	},
+	{
+		"title": "Gamers Demography",
+		"link": "census.php"
+	},
+	{
+		"title": "Wordsearch Puzzle",
+		"link": "wordSearch.php"
+	},
+	{
+		"title": "Tweets from IGN",
+		"link": "grabTweets.php"
+	}]
+}
